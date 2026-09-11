@@ -19,13 +19,13 @@
 
 ## About Me
 
-I'm a Software Engineer focused mainly on backend systems and AI.
+I'm a Software Engineer who enjoys the part where backend systems, APIs and AI actually have to work together in a real product.
 
-A lot of my work involves taking real business processes and turning them into software, automation or AI-powered workflows.
+A lot of the projects I've enjoyed most started with a manual or messy process and ended up as software, automation or an AI-powered workflow.
 
-I've worked across backend APIs, booking systems, business management tools, payments, integrations, deployments, voice AI and internal operations.
+I've worked across booking systems, business management tools, payments, integrations, internal operations, deployments and AI products.
 
-On the AI side, I've worked with RAG, AI agents, voice AI, LLM tool calling, computer vision and automated media processing.
+On the AI side, I'm especially interested in systems where the model has to actually do something — call an API, retrieve real data, use a tool, trigger a workflow or return an answer grounded in a real source.
 
 ---
 
@@ -65,72 +65,28 @@ On the AI side, I've worked with RAG, AI agents, voice AI, LLM tool calling, com
 
 ---
 
-## Selected Work
-
-### Channel-IQ
-
-AI-powered video processing platform that turns long-form YouTube videos into short-form content.
-
-Uses Whisper for transcription, LLMs for highlight selection, YOLO/OpenCV for face-aware framing, FFmpeg for video processing, captions and automated YouTube workflows.
-
-**Stack:** Python, Django, Whisper, OpenAI, YOLO, OpenCV, FFmpeg
-
-[View Repository](https://github.com/Aqibgh/Channel-Iq)
-
----
-
-### AI Document Assistant
-
-RAG-based document assistant that retrieves relevant information and streams grounded answers with source citations.
-
-Includes document ingestion, embeddings, retrieval, metadata filtering, authentication, conversation history and grounding checks.
-
-**Stack:** FastAPI, Next.js, LangChain, Chroma, OpenAI, PostgreSQL, Docker
-
----
-
-### AI Call Center
-
-Voice AI system connected to real booking workflows.
-
-The agent can check availability, create bookings, reschedule appointments and cancel bookings using tool calls and backend APIs.
-
-**Stack:** Vapi, LLMs, REST APIs, Node.js / Python
-
----
-
-### Multi-Agent Operations Platform
-
-Multi-agent system for handling different business workflows through specialized agents.
-
-Includes routing, shared state, tool execution, retries and audit logs.
-
-**Stack:** FastAPI, LangGraph, LangChain, PostgreSQL, Next.js
-
----
-
-### Employee Activity Tracker
-
-Desktop and web platform for tracking work sessions, employee activity, screenshots, teams, projects and reporting.
-
-Includes a desktop client, backend APIs and a web dashboard.
-
-**Stack:** Electron, React, Next.js, Fastify, Prisma, PostgreSQL, S3 / MinIO
-
----
-
-## What I Work With
+## What I Like Working On
 
 - Backend APIs and business logic
 - RAG and document intelligence
 - AI agents and tool calling
-- Voice AI workflows
-- Third-party integrations
-- Authentication and authorization
+- Voice AI connected to real workflows
+- Third-party integrations and automation
 - PostgreSQL and relational data modeling
-- Testing and production debugging
+- Authentication and authorization
+- Testing, debugging and production issues
 - Docker, CI/CD and cloud deployment
 - React and Next.js when the product needs a frontend
+
+---
+
+## How I Work
+
+I like keeping things practical.
+
+Getting a feature working is important, but so are clean APIs, validation, error handling, testing and making sure the system is still understandable when you come back to it later.
+
+I'm also usually happiest working on problems where there isn't a perfect off-the-shelf solution and some figuring out is required.
 
 ---
 
